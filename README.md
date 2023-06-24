@@ -11,13 +11,15 @@ Question Your PDF is a Streamlit web application that allows you to ask question
 
 2. Install the required dependencies:
 
-   ```pip install -r requirements.txt```
+   ```bash
+   pip install -r requirements.txt
 
-3. Run the application:
+4. Run the application:
 
-   ```streamlit run app.py```
+   ```bash
+   streamlit run app.py
 
-4. Access the application in your web browser at
+6. Access the application in your web browser at
 
 ## How It Works:
 
